@@ -1,0 +1,38 @@
+#account-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#shipping-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#billing-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  display: flex;
+}
+
+.form-inputs {
+  margin-left: 10px;
+}
+
+.save-button {
+  margin-top: 25px;
+}
+
+.info-form {
+  line-height: 1.50;
+  font-size: 20px;
+}
+
+.info-form input {
+  height: 17px;
+}
